@@ -1,0 +1,14 @@
+# Production dependencies
+instaloader>=4.10.0
+requests>=2.31.0
+moviepy>=1.0.3
+faster-whisper>=1.0.0
+torch>=2.0.0
+google-genai>=0.2.0
+
+# Development dependencies (optional)
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.0.0
