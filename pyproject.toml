@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "crtr"
-version = "0.1.0"
+version = "0.1.1"
 description = "Convert Instagram cooking reels into structured recipes using AI"
 readme = "README.md"
 requires-python = ">=3.8"
@@ -47,9 +47,7 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/crtr"
-Repository = "https://github.com/yourusername/crtr"
-"Bug Tracker" = "https://github.com/yourusername/crtr/issues"
+Repository = "https://github.com/Samitho456/convert-reel-to-recipe"
 
 [project.scripts]
 crtr = "crtr.cli:main"
